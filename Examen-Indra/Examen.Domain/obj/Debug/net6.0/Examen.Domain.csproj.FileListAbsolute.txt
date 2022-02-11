@@ -1,0 +1,12 @@
+D:\indra-examen\Examen-Indra\Examen.Domain\bin\Debug\net6.0\Examen.Domain.deps.json
+D:\indra-examen\Examen-Indra\Examen.Domain\bin\Debug\net6.0\Examen.Domain.dll
+D:\indra-examen\Examen-Indra\Examen.Domain\bin\Debug\net6.0\ref\Examen.Domain.dll
+D:\indra-examen\Examen-Indra\Examen.Domain\bin\Debug\net6.0\Examen.Domain.pdb
+D:\indra-examen\Examen-Indra\Examen.Domain\obj\Debug\net6.0\Examen.Domain.csproj.AssemblyReference.cache
+D:\indra-examen\Examen-Indra\Examen.Domain\obj\Debug\net6.0\Examen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\indra-examen\Examen-Indra\Examen.Domain\obj\Debug\net6.0\Examen.Domain.AssemblyInfoInputs.cache
+D:\indra-examen\Examen-Indra\Examen.Domain\obj\Debug\net6.0\Examen.Domain.AssemblyInfo.cs
+D:\indra-examen\Examen-Indra\Examen.Domain\obj\Debug\net6.0\Examen.Domain.csproj.CoreCompileInputs.cache
+D:\indra-examen\Examen-Indra\Examen.Domain\obj\Debug\net6.0\Examen.Domain.dll
+D:\indra-examen\Examen-Indra\Examen.Domain\obj\Debug\net6.0\ref\Examen.Domain.dll
+D:\indra-examen\Examen-Indra\Examen.Domain\obj\Debug\net6.0\Examen.Domain.pdb

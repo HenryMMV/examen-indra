@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97b856ce-65bf-4b72-961c-239b5cc6debc": {
+      "ProjectGuid": "97b856ce-65bf-4b72-961c-239b5cc6debc",
+      "DisplayName": "Examen.Infra.Data",
+      "ColorIndex": 0
+    },
+    "b759e2f9-32e6-464e-a0f8-9c5909696e2a": {
+      "ProjectGuid": "b759e2f9-32e6-464e-a0f8-9c5909696e2a",
+      "DisplayName": "Examen.Api",
+      "ColorIndex": 1
+    },
+    "74c9aec9-93f7-43b7-8c33-e29c15b6f17f": {
+      "ProjectGuid": "74c9aec9-93f7-43b7-8c33-e29c15b6f17f",
+      "DisplayName": "Examen.Application",
+      "ColorIndex": 2
+    },
+    "7f5883a0-ddbe-4d2d-bdfc-eb7ef85eca4a": {
+      "ProjectGuid": "7f5883a0-ddbe-4d2d-bdfc-eb7ef85eca4a",
+      "DisplayName": "Examen.Domain",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
